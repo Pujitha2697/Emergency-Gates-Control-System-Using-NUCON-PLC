@@ -50,10 +50,6 @@ The project demonstrates an industrial automation system using NUCON PLC and COD
 - Electrical Testing
 - Industrial Control Systems
 
-
-  # Ladder Diagram
-<img width="978" height="612" alt="image" src="https://github.com/user-attachments/assets/adf47d4c-73eb-4d55-99ef-613b0cb30784" />
-     
   # Author
 **Manda Pujitha**
 
